@@ -1,0 +1,14 @@
+db.sqlite3
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+config.py
+requirements.txt
+*.xlsx
+data.xlsx
+data/*.xlsx
+data/**/*.xlsx
